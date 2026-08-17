@@ -2,7 +2,7 @@
 
 This directory is the organizational source of truth for the National Distributed Energy Resource Management System initiative and the institution being built around it.
 
-It connects the organization's purpose, strategy, products, operating model, finances, risk, people, technology, governance, ecosystem, resilience, institutional learning, research, innovation, standards, open-source governance, and intellectual capital into one coherent institutional architecture.
+It connects the organization's purpose, strategy, products, operating model, finances, risk, people, technology, governance, ecosystem, resilience, institutional learning, research, innovation, standards, open-source governance, intellectual capital, market development, and energy-economy architecture into one coherent institutional system.
 
 ## Vision
 
@@ -54,6 +54,8 @@ RESILIENCE + INSTITUTIONAL LONGEVITY
 MONITORING + EVALUATION + LEARNING
   ↓
 RESEARCH + INNOVATION + INTELLECTUAL CAPITAL
+  ↓
+MARKET DEVELOPMENT + ENERGY-ECONOMY ARCHITECTURE
 ```
 
 ## Organization Domains
@@ -89,6 +91,7 @@ RESEARCH + INNOVATION + INTELLECTUAL CAPITAL
 15. [Organizational Resilience, Continuity & Institutional Longevity](./15-organizational-resilience-continuity-and-institutional-longevity/) — Defines resilience architecture, business continuity, disaster recovery, crisis command, succession, institutional memory, anti-fragility, and integrated resilience governance.
 16. [Monitoring, Evaluation, Learning & Institutional Performance](./16-monitoring-evaluation-learning-and-institutional-performance/) — Defines performance measurement, monitoring, data quality, evaluation, impact evidence, institutional learning, decision intelligence, assurance, and evidence-gated scaling.
 17. [Research, Innovation & Intellectual Capital](./17-research-innovation-and-intellectual-capital/) — Defines research architecture, experimental governance, interoperability standards, conformance and certification, open-source/IP governance, intellectual capital, R&D evidence gates, and research-to-infrastructure transfer.
+18. [Market Development & Energy-Economy Architecture](./18-market-development-and-energy-economy/) — Defines energy-market formation, DER flexibility, aggregation and VPP economics, market products, transactions, measurement and verification, settlement, commercialization, market governance, readiness gates and evidence-driven market scaling.
 
 ## Current Documentation State
 
@@ -110,8 +113,8 @@ RESEARCH + INNOVATION + INTELLECTUAL CAPITAL
 15  Organizational Resilience, Continuity & Longevity        COMPLETE
 16  Monitoring, Evaluation, Learning & Institutional Perf.   COMPLETE
 17  Research, Innovation & Intellectual Capital              COMPLETE
-18  Market Development & Energy-Economy Architecture         NEXT
-19  National Deployment, Public Infrastructure & Impact      PENDING
+18  Market Development & Energy-Economy Architecture         COMPLETE
+19  National Deployment, Public Infrastructure & Impact      NEXT
 20  Institutional Integration & Master Operating System      PENDING
 ```
 
@@ -144,6 +147,12 @@ RESEARCH + INNOVATION + INTELLECTUAL CAPITAL
 ### Research Discipline
 > **Research creates knowledge. Governance determines which knowledge is trustworthy enough to become infrastructure.**
 
+### Market Discipline
+> **Connected capacity is not market capability. Market participation requires qualified flexibility, legitimate authority, measurable delivery, governed transactions and auditable settlement.**
+
+### Commercial Discipline
+> **Technology is commercialized through measurable customer outcomes and repeatable services—not technical complexity alone.**
+
 ### Stage Integrity
 > **The institution describes itself according to demonstrated maturity, not intended maturity.**
 
@@ -166,6 +175,8 @@ Operating Capabilities
 Governance + Controls
   ↓
 Research + Evidence
+  ↓
+Market Development + Economic Coordination
   ↓
 Projects
   ↓
@@ -194,6 +205,10 @@ Learning + Institutional Adaptation
 14. **Compatibility must be proven.** Multi-vendor interoperability requires governed semantics, versions, conformance tests and safe behavior—not merely successful connectivity.
 15. **Open source is governed infrastructure.** Contributions, dependencies, licensing, forks and intellectual assets require explicit stewardship.
 16. **Maturity claims reflect demonstrated evidence.** Prototype, pilot, production and scale are not interchangeable labels.
+17. **Markets require qualification.** Connected resources become market resources only after capability, authority, measurement and rules are established.
+18. **Economic optimization remains subordinate to safety.** Commercial or market value never overrides safe physical operation.
+19. **Transactions remain auditable.** Market commitments, delivery evidence, settlement and adjustments must preserve traceability.
+20. **Commercial scale requires repeatability.** Sustainable market development depends on measurable customer value, repeatable deployment and viable unit economics.
 
 ## Supporting Material
 
@@ -205,6 +220,6 @@ Learning + Institutional Adaptation
 
 Technical implementation repositories and organizational governance documentation should remain logically distinct.
 
-This directory defines the institution: **why it exists, what it builds, how it operates, how authority is governed, how risk is carried, how people and partners participate, how performance is proven, how research becomes trustworthy evidence, how standards and open-source intellectual capital are governed, how the institution learns, and how the mission survives change.**
+This directory defines the institution: **why it exists, what it builds, how it operates, how authority is governed, how risk is carried, how people and partners participate, how performance is proven, how research becomes trustworthy evidence, how standards and open-source intellectual capital are governed, how technical resources become qualified economic capabilities, how market activity is governed and settled, how the institution learns, and how the mission survives change.**
 
 Technical repositories define specific implementations of those institutional decisions.
