@@ -2,7 +2,7 @@
 
 This directory is the organizational source of truth for the National Distributed Energy Resource Management System initiative and the institution being built around it.
 
-It connects the organization's purpose, strategy, products, operating model, finances, risk, people, technology, governance, ecosystem, resilience, institutional learning, research, innovation, standards, open-source governance, intellectual capital, market development, energy-economy architecture, national deployment, public infrastructure, operations and impact into one coherent institutional system.
+It connects purpose, strategy, products, operations, finance, risk, people, technology, governance, ecosystem, resilience, learning, research, innovation, markets, national deployment, public infrastructure and impact through a Master Operating System.
 
 ## Vision
 
@@ -62,10 +62,10 @@ The organization advances only after it has demonstrably solved the coordination
 16. [Monitoring, Evaluation, Learning & Institutional Performance](./16-monitoring-evaluation-learning-and-institutional-performance/)
 17. [Research, Innovation & Intellectual Capital](./17-research-innovation-and-intellectual-capital/)
 18. [Market Development & Energy-Economy Architecture](./18-market-development-and-energy-economy/)
-19. [National Deployment, Public Infrastructure & Impact](./19-national-deployment-public-infrastructure-and-impact/) — Defines national deployment architecture, public procurement and institutional delivery, national operations, lifecycle management, development economics, impact evidence, integrated national infrastructure governance and evidence-gated scale.
-20. **Institutional Integration & Master Operating System** — Final domain; pending.
+19. [National Deployment, Public Infrastructure & Impact](./19-national-deployment-public-infrastructure-and-impact/)
+20. [Institutional Integration & Master Operating System](./20-institutional-integration-and-master-operating-system/) — Integrates Domains 01–19 into the institutional control layer and closes Organizational Architecture v1.0.
 
-## Current Documentation State
+## Architecture Status
 
 ```text
 01  Organization Vision                                      COMPLETE
@@ -87,7 +87,36 @@ The organization advances only after it has demonstrably solved the coordination
 17  Research, Innovation & Intellectual Capital              COMPLETE
 18  Market Development & Energy-Economy Architecture         COMPLETE
 19  National Deployment, Public Infrastructure & Impact      COMPLETE
-20  Institutional Integration & Master Operating System      NEXT
+20  Institutional Integration & Master Operating System      COMPLETE
+
+ORGANIZATIONAL ARCHITECTURE v1.0                              BASELINE COMPLETE
+```
+
+## Master Operating System
+
+```text
+Purpose
+  ↓
+Strategy
+  ↓
+Governance
+  ↓
+Portfolio
+  ↓
+Capabilities
+  ↓
+Execution
+  ↓
+Operations
+  ↓
+Evidence
+  ↓
+Assurance
+  ↓
+Learning
+  ↓
+Improvement
+  ↺
 ```
 
 ## Core Organizational Doctrine
@@ -131,6 +160,9 @@ The organization advances only after it has demonstrably solved the coordination
 ### Stage Integrity
 > **The institution describes itself according to demonstrated maturity, not intended maturity.**
 
+### Institutional Integration
+> **Architecture defines what must exist; evidence establishes what actually exists.**
+
 ### Mission
 > **The mission is to transform Africa's energy sector—not merely to sell technology.**
 
@@ -156,6 +188,8 @@ Market Development + Economic Coordination
 National Deployment + Public Infrastructure
   ↓
 Operations + Impact
+  ↓
+Master Operating System
   ↓
 Projects + Tasks
   ↓
@@ -188,6 +222,24 @@ Learning + Institutional Adaptation
 22. National coordination must degrade toward safe local autonomy.
 23. Public and economic impact claims must preserve evidence provenance.
 24. National infrastructure status requires production, institutional and lifecycle evidence.
+25. Domain architecture defines capability boundaries, not organizational headcount.
+26. Current state and target state must remain distinguishable.
+27. Critical dependencies, gaps, risks and exceptions must remain visible.
+28. Automation may support authority but must not silently acquire it.
+29. Architecture completion does not prove implementation completion.
+30. Implementation must remain proportional to current organizational stage.
+
+## Phase Transition
+
+The 20-domain architecture is now the **v1.0 institutional blueprint**.
+
+```text
+PHASE I — DESIGN THE ORGANIZATION   COMPLETE
+                 ↓
+PHASE II — BUILD THE ORGANIZATION
+```
+
+The next work is **Architecture Reconciliation & GitHub Implementation**: inventory the required artifacts across all 20 domains, compare the blueprint with repository reality, identify missing/stale/duplicate artifacts, establish the authoritative baseline and implement gaps in dependency and risk order.
 
 ## Supporting Material
 
@@ -199,6 +251,6 @@ Learning + Institutional Adaptation
 
 Technical implementation repositories and organizational governance documentation should remain logically distinct.
 
-This directory defines the institution: **why it exists, what it builds, how it operates, how authority is governed, how risk is carried, how people and partners participate, how performance is proven, how research becomes trustworthy evidence, how standards and open-source intellectual capital are governed, how technical resources become qualified economic capabilities, how market activity is governed and settled, how national infrastructure is deployed and operated, how public value and impact are evidenced, how the institution learns, and how the mission survives change.**
+This directory defines the institution: **why it exists, what it builds, how it operates, how authority is governed, how risk is carried, how people and partners participate, how performance is proven, how research becomes trustworthy evidence, how standards and open-source intellectual capital are governed, how technical resources become qualified economic capabilities, how market activity is governed and settled, how national infrastructure is deployed and operated, how public value and impact are evidenced, how the institution learns, and how all institutional capabilities operate together through the Master Operating System.**
 
 Technical repositories define specific implementations of those institutional decisions.
