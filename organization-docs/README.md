@@ -2,7 +2,7 @@
 
 This directory is the organizational source of truth for the National Distributed Energy Resource Management System initiative and the institution being built around it.
 
-It connects the organization's purpose, strategy, products, operating model, finances, risk, people, technology, governance, ecosystem, resilience, institutional learning, research, innovation, standards, open-source governance, intellectual capital, market development, and energy-economy architecture into one coherent institutional system.
+It connects the organization's purpose, strategy, products, operating model, finances, risk, people, technology, governance, ecosystem, resilience, institutional learning, research, innovation, standards, open-source governance, intellectual capital, market development, energy-economy architecture, national deployment, public infrastructure, operations and impact into one coherent institutional system.
 
 ## Vision
 
@@ -28,70 +28,42 @@ Regional Energy Market
 
 The organization advances only after it has demonstrably solved the coordination problem at its current level.
 
-## Institutional Architecture
-
-```text
-PURPOSE
-  ↓
-VISION + FOUNDER'S THESIS
-  ↓
-GROWTH FRAMEWORK
-  ↓
-PRODUCTS + ROADMAP
-  ↓
-BUSINESS + OPERATING MODEL
-  ↓
-FINANCE + RISK
-  ↓
-PEOPLE + TECHNOLOGY
-  ↓
-GOVERNANCE
-  ↓
-ECOSYSTEM
-  ↓
-RESILIENCE + INSTITUTIONAL LONGEVITY
-  ↓
-MONITORING + EVALUATION + LEARNING
-  ↓
-RESEARCH + INNOVATION + INTELLECTUAL CAPITAL
-  ↓
-MARKET DEVELOPMENT + ENERGY-ECONOMY ARCHITECTURE
-```
-
 ## Organization Domains
 
 ### Foundation
 
-1. [Organization Vision](./01-organization-vision/) — Defines the long-term future the institution exists to create.
-2. [Founder's Thesis](./02-founders-thesis/) — Defines the core problem thesis, institutional identity, smallest complete energy-system unit, and scaling logic.
-3. [Organization Growth Framework](./03-organization-growth-framework/) — Defines how technical capability becomes trust, collaboration, ecosystem growth, and institutional maturity.
+1. [Organization Vision](./01-organization-vision/)
+2. [Founder's Thesis](./02-founders-thesis/)
+3. [Organization Growth Framework](./03-organization-growth-framework/)
 
 ### Product & Market
 
-4. [Product Portfolio](./04-product-portfolio/) — Defines Facility EMS, Regional DERMS, National DERMS, the shared Energy Operating Platform, product boundaries, and product-creation rules.
-5. [Product Roadmap](./05-product-roadmap/) — Defines the evidence-gated progression from laboratory capability to national distributed-energy infrastructure.
-6. [Business Strategy](./06-business-strategy/) — Defines customer architecture, commercial model, go-to-market strategy, partnerships, defensibility, funding logic, and the organizational North Star.
+4. [Product Portfolio](./04-product-portfolio/)
+5. [Product Roadmap](./05-product-roadmap/)
+6. [Business Strategy](./06-business-strategy/)
 
 ### Operating Institution
 
-7. [Operating Model](./07-operating-model/) — Defines how work moves from problem discovery through engineering, proof, operations, learning, decision rights, releases, and safe control.
-8. [Financial Model](./08-financial-model/) — Defines sustainable economics, capital stewardship, deployment economics, forecasting, financial integrity, and funding-stage discipline.
-9. [Risk Management](./09-risk-management/) — Defines enterprise risk, appetite, governance, controls, incidents, business continuity, cybersecurity, safety, compliance, and the enterprise risk register.
-10. [People & Organization](./10-people-and-organization/) — Defines organizational design, role architecture, talent, performance, culture, compensation, succession, employee relations, people operations, and authority.
+7. [Operating Model](./07-operating-model/)
+8. [Financial Model](./08-financial-model/)
+9. [Risk Management](./09-risk-management/)
+10. [People & Organization](./10-people-and-organization/)
 
 ### Infrastructure & Institutional Governance
 
-11. [Technology & Digital Infrastructure](./11-technology-and-digital-infrastructure/) — Defines the Facility EMS → Regional DERMS → National DERMS technology architecture, digital twins, data, APIs, cloud, cybersecurity, resilience, observability, and reference architecture.
-12. [Governance, Legal & Institutional Architecture](./12-governance-legal-and-institutional-architecture/) — Defines governance authority, legal ownership, IP and open-source boundaries, regulatory and energy-market governance, assurance, compliance, accountability, and institutional succession.
-13. [People, Talent & Organizational Capability](./13-people-talent-and-organizational-capability/) — Extends the people architecture into capability planning, talent acquisition, onboarding, performance, learning, career development, leadership, employee experience, and workforce governance.
+11. [Technology & Digital Infrastructure](./11-technology-and-digital-infrastructure/)
+12. [Governance, Legal & Institutional Architecture](./12-governance-legal-and-institutional-architecture/)
+13. [People, Talent & Organizational Capability](./13-people-talent-and-organizational-capability/)
 
 ### Ecosystem, Longevity & Institutional Intelligence
 
-14. [Partnerships, Ecosystem & Institutional Relations](./14-partnerships-ecosystem-and-institutional-relations/) — Defines ecosystem architecture, government/utility/regulatory relations, OEM and technology partnerships, research and open-source collaboration, capital partnerships, and partnership governance.
-15. [Organizational Resilience, Continuity & Institutional Longevity](./15-organizational-resilience-continuity-and-institutional-longevity/) — Defines resilience architecture, business continuity, disaster recovery, crisis command, succession, institutional memory, anti-fragility, and integrated resilience governance.
-16. [Monitoring, Evaluation, Learning & Institutional Performance](./16-monitoring-evaluation-learning-and-institutional-performance/) — Defines performance measurement, monitoring, data quality, evaluation, impact evidence, institutional learning, decision intelligence, assurance, and evidence-gated scaling.
-17. [Research, Innovation & Intellectual Capital](./17-research-innovation-and-intellectual-capital/) — Defines research architecture, experimental governance, interoperability standards, conformance and certification, open-source/IP governance, intellectual capital, R&D evidence gates, and research-to-infrastructure transfer.
-18. [Market Development & Energy-Economy Architecture](./18-market-development-and-energy-economy/) — Defines energy-market formation, DER flexibility, aggregation and VPP economics, market products, transactions, measurement and verification, settlement, commercialization, market governance, readiness gates and evidence-driven market scaling.
+14. [Partnerships, Ecosystem & Institutional Relations](./14-partnerships-ecosystem-and-institutional-relations/)
+15. [Organizational Resilience, Continuity & Institutional Longevity](./15-organizational-resilience-continuity-and-institutional-longevity/)
+16. [Monitoring, Evaluation, Learning & Institutional Performance](./16-monitoring-evaluation-learning-and-institutional-performance/)
+17. [Research, Innovation & Intellectual Capital](./17-research-innovation-and-intellectual-capital/)
+18. [Market Development & Energy-Economy Architecture](./18-market-development-and-energy-economy/)
+19. [National Deployment, Public Infrastructure & Impact](./19-national-deployment-public-infrastructure-and-impact/) — Defines national deployment architecture, public procurement and institutional delivery, national operations, lifecycle management, development economics, impact evidence, integrated national infrastructure governance and evidence-gated scale.
+20. **Institutional Integration & Master Operating System** — Final domain; pending.
 
 ## Current Documentation State
 
@@ -114,8 +86,8 @@ MARKET DEVELOPMENT + ENERGY-ECONOMY ARCHITECTURE
 16  Monitoring, Evaluation, Learning & Institutional Perf.   COMPLETE
 17  Research, Innovation & Intellectual Capital              COMPLETE
 18  Market Development & Energy-Economy Architecture         COMPLETE
-19  National Deployment, Public Infrastructure & Impact      NEXT
-20  Institutional Integration & Master Operating System      PENDING
+19  National Deployment, Public Infrastructure & Impact      COMPLETE
+20  Institutional Integration & Master Operating System      NEXT
 ```
 
 ## Core Organizational Doctrine
@@ -150,6 +122,9 @@ MARKET DEVELOPMENT + ENERGY-ECONOMY ARCHITECTURE
 ### Market Discipline
 > **Connected capacity is not market capability. Market participation requires qualified flexibility, legitimate authority, measurable delivery, governed transactions and auditable settlement.**
 
+### National Infrastructure Discipline
+> **National scale is achieved only when distributed-energy infrastructure can be operated, secured, financed, maintained, governed and demonstrably used to create sustainable public and economic value.**
+
 ### Commercial Discipline
 > **Technology is commercialized through measurable customer outcomes and repeatable services—not technical complexity alone.**
 
@@ -178,37 +153,41 @@ Research + Evidence
   ↓
 Market Development + Economic Coordination
   ↓
-Projects
+National Deployment + Public Infrastructure
   ↓
-Tasks
+Operations + Impact
   ↓
-Deployment + Outcomes
+Projects + Tasks
   ↓
 Learning + Institutional Adaptation
 ```
 
 ## Documentation Principles
 
-1. **Purpose before structure.** Organizational architecture exists to carry the mission.
-2. **Problem before product.** Products are created only to solve recurring coordination problems.
-3. **Capability before scale.** Greater responsibility must be earned through evidence.
-4. **Open standards before proprietary dependence.** Interoperability is a strategic requirement.
-5. **Authority follows legitimate mandate.** Technical ability never substitutes for lawful authority.
-6. **Evidence before claims.** Technical, commercial and institutional claims must remain demonstrable.
-7. **Responsibility must be sustainable.** Every product and deployment must support the obligation it creates.
-8. **Important knowledge belongs to the institution.** Critical knowledge must not remain trapped in individual memory.
-9. **Failure must be survivable.** Critical infrastructure must degrade safely, recover predictably, and learn from disruption.
-10. **The institution must outlive individuals.** Governance, succession, documentation, and ecosystem stewardship convert founder-led execution into durable institutional capability.
-11. **Learning must change the system.** Evidence and experience become institutional only when they produce verified improvements in decisions, products, processes, standards or strategy.
-12. **Scale follows evidence.** Increasingly consequential infrastructure responsibility requires increasingly strong proof of capability, value, resilience and governance.
-13. **Research reduces decision uncertainty.** Experiments exist to generate evidence that can change or validate decisions.
-14. **Compatibility must be proven.** Multi-vendor interoperability requires governed semantics, versions, conformance tests and safe behavior—not merely successful connectivity.
-15. **Open source is governed infrastructure.** Contributions, dependencies, licensing, forks and intellectual assets require explicit stewardship.
-16. **Maturity claims reflect demonstrated evidence.** Prototype, pilot, production and scale are not interchangeable labels.
-17. **Markets require qualification.** Connected resources become market resources only after capability, authority, measurement and rules are established.
-18. **Economic optimization remains subordinate to safety.** Commercial or market value never overrides safe physical operation.
-19. **Transactions remain auditable.** Market commitments, delivery evidence, settlement and adjustments must preserve traceability.
-20. **Commercial scale requires repeatability.** Sustainable market development depends on measurable customer value, repeatable deployment and viable unit economics.
+1. Purpose before structure.
+2. Problem before product.
+3. Capability before scale.
+4. Open standards before proprietary dependence.
+5. Authority follows legitimate mandate.
+6. Evidence before claims.
+7. Responsibility must be sustainable.
+8. Important knowledge belongs to the institution.
+9. Failure must be survivable.
+10. The institution must outlive individuals.
+11. Learning must change the system.
+12. Scale follows evidence.
+13. Research reduces decision uncertainty.
+14. Compatibility must be proven.
+15. Open source is governed infrastructure.
+16. Maturity claims reflect demonstrated evidence.
+17. Markets require qualification.
+18. Economic optimization remains subordinate to safety.
+19. Transactions remain auditable.
+20. Commercial scale requires repeatability.
+21. Public infrastructure requires lifecycle ownership and funding.
+22. National coordination must degrade toward safe local autonomy.
+23. Public and economic impact claims must preserve evidence provenance.
+24. National infrastructure status requires production, institutional and lifecycle evidence.
 
 ## Supporting Material
 
@@ -220,6 +199,6 @@ Learning + Institutional Adaptation
 
 Technical implementation repositories and organizational governance documentation should remain logically distinct.
 
-This directory defines the institution: **why it exists, what it builds, how it operates, how authority is governed, how risk is carried, how people and partners participate, how performance is proven, how research becomes trustworthy evidence, how standards and open-source intellectual capital are governed, how technical resources become qualified economic capabilities, how market activity is governed and settled, how the institution learns, and how the mission survives change.**
+This directory defines the institution: **why it exists, what it builds, how it operates, how authority is governed, how risk is carried, how people and partners participate, how performance is proven, how research becomes trustworthy evidence, how standards and open-source intellectual capital are governed, how technical resources become qualified economic capabilities, how market activity is governed and settled, how national infrastructure is deployed and operated, how public value and impact are evidenced, how the institution learns, and how the mission survives change.**
 
 Technical repositories define specific implementations of those institutional decisions.
