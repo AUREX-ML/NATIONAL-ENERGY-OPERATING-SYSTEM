@@ -1,35 +1,202 @@
 # Organization Documentation
 
-This directory is the organizational source of truth for the energy infrastructure venture.
+This directory is the organizational source of truth for the National Distributed Energy Resource Management System initiative and the institution being built around it.
+
+It connects the organization's purpose, strategy, products, operating model, finances, risk, people, technology, governance, ecosystem, and resilience into one coherent institutional architecture.
 
 ## Vision
 
-Build digital infrastructure that enables facilities, regions, and nations to operate distributed energy resources as coordinated systems, creating the foundation for a regional energy market.
+> **Build digital infrastructure that enables facilities, regions, and nations to operate distributed energy resources as coordinated systems, creating the foundation for a regional energy market.**
 
 ## Growth Thesis
 
 ```text
-Facility EMS (Prototype — OpenEMS on NVIDIA Jetson Nano)
-        ↓
-Regional DERMS (MVP)
-        ↓
-National DERMS (Flagship Project)
-        ↓
-Regional Energy Market (Long-term outcome)
+Facility EMS
+    ↓
+Trusted Facilities
+    ↓
+Regional DERMS
+    ↓
+National DERMS
+    ↓
+Energy Operating Platform
+    ↓
+Digital Energy Infrastructure
+    ↓
+Regional Energy Market
 ```
 
-## Documentation Order
+The organization advances only after it has demonstrably solved the coordination problem at its current level.
+
+## Institutional Architecture
+
+```text
+PURPOSE
+  ↓
+VISION + FOUNDER'S THESIS
+  ↓
+GROWTH FRAMEWORK
+  ↓
+PRODUCTS + ROADMAP
+  ↓
+BUSINESS + OPERATING MODEL
+  ↓
+FINANCE + RISK
+  ↓
+PEOPLE + TECHNOLOGY
+  ↓
+GOVERNANCE
+  ↓
+ECOSYSTEM
+  ↓
+RESILIENCE + INSTITUTIONAL LONGEVITY
+```
+
+## Organization Domains
+
+### Foundation
 
 1. [Organization Vision](./01-organization-vision/)
+   - Defines the long-term future the institution exists to create.
+
 2. [Founder's Thesis](./02-founders-thesis/)
+   - Defines the core problem thesis, institutional identity, smallest complete energy-system unit, and scaling logic.
+
 3. [Organization Growth Framework](./03-organization-growth-framework/)
+   - Defines how technical capability becomes trust, collaboration, ecosystem growth, and institutional maturity.
+
+### Product & Market
+
 4. [Product Portfolio](./04-product-portfolio/)
+   - Defines Facility EMS, Regional DERMS, National DERMS, the shared Energy Operating Platform, product boundaries, and product-creation rules.
+
 5. [Product Roadmap](./05-product-roadmap/)
+   - Defines the evidence-gated progression from laboratory capability to national distributed-energy infrastructure.
+
 6. [Business Strategy](./06-business-strategy/)
-7. [System Architecture Vision](./07-system-architecture-vision/)
-8. [Stakeholder Map](./08-stakeholder-map/)
-9. [Risk Register](./09-risk-register/)
-10. [Organization Operating Model](./10-organization-operating-model/)
+   - Defines customer architecture, commercial model, go-to-market strategy, partnerships, defensibility, funding logic, and the organizational North Star.
+
+### Operating Institution
+
+7. [Operating Model](./07-operating-model/)
+   - Defines how work moves from problem discovery through engineering, proof, operations, learning, decision rights, releases, and safe control.
+
+8. [Financial Model](./08-financial-model/)
+   - Defines sustainable economics, capital stewardship, deployment economics, forecasting, financial integrity, and funding-stage discipline.
+
+9. [Risk Management](./09-risk-management/)
+   - Defines enterprise risk, appetite, governance, controls, incidents, business continuity, cybersecurity, safety, compliance, and the enterprise risk register.
+
+10. [People & Organization](./10-people-and-organization/)
+    - Defines organizational design, role architecture, talent, performance, culture, compensation, succession, employee relations, people operations, and authority.
+
+### Infrastructure & Institutional Governance
+
+11. [Technology & Digital Infrastructure](./11-technology-and-digital-infrastructure/)
+    - Defines the Facility EMS → Regional DERMS → National DERMS technology architecture, digital twins, data, APIs, cloud, cybersecurity, resilience, observability, and reference architecture.
+
+12. [Governance, Legal & Institutional Architecture](./12-governance-legal-and-institutional-architecture/)
+    - Defines governance authority, legal ownership, IP and open-source boundaries, regulatory and energy-market governance, assurance, compliance, accountability, and institutional succession.
+
+13. [People, Talent & Organizational Capability](./13-people-talent-and-organizational-capability/)
+    - Extends the people architecture into capability planning, talent acquisition, onboarding, performance, learning, career development, leadership, employee experience, and workforce governance.
+
+### Ecosystem & Longevity
+
+14. [Partnerships, Ecosystem & Institutional Relations](./14-partnerships-ecosystem-and-institutional-relations/)
+    - Defines ecosystem architecture, government/utility/regulatory relations, OEM and technology partnerships, research and open-source collaboration, capital partnerships, and partnership governance.
+
+15. [Organizational Resilience, Continuity & Institutional Longevity](./15-organizational-resilience-continuity-and-institutional-longevity/)
+    - Defines resilience architecture, business continuity, disaster recovery, crisis command, succession, institutional memory, anti-fragility, and integrated resilience governance.
+
+## Current Documentation State
+
+```text
+01  Organization Vision                                      COMPLETE
+02  Founder's Thesis                                         COMPLETE
+03  Organization Growth Framework                            COMPLETE
+04  Product Portfolio                                        COMPLETE
+05  Product Roadmap                                          COMPLETE
+06  Business Strategy                                        COMPLETE
+07  Operating Model                                          COMPLETE
+08  Financial Model                                          COMPLETE
+09  Risk Management                                          COMPLETE
+10  People & Organization                                    COMPLETE
+11  Technology & Digital Infrastructure                      COMPLETE
+12  Governance, Legal & Institutional Architecture           COMPLETE
+13  People, Talent & Organizational Capability               COMPLETE
+14  Partnerships, Ecosystem & Institutional Relations        COMPLETE
+15  Organizational Resilience, Continuity & Longevity        COMPLETE
+```
+
+## Core Organizational Doctrine
+
+### Institutional Identity
+
+> **We exist to build the open digital operating layer that enables energy stakeholders to operate as one coordinated ecosystem.**
+
+### Open Infrastructure
+
+> **We will always choose open standards over proprietary dependence.**
+
+### Product Boundary
+
+> **Own the coordination layer. Orchestrate the ecosystem around it.**
+
+### Scaling Rule
+
+> **The organization earns the right to manage a larger energy system only by demonstrating that it can reliably coordinate the system immediately below it.**
+
+### Control Architecture
+
+> **Coordinate globally; control locally.**
+
+### Authority Boundary
+
+> **Technical capability does not automatically create operational authority, commercial permission, or regulatory permission.**
+
+### Institutional Maturity
+
+> **If the organization cannot continue without the founder, it has not yet become an institution.**
+
+### Mission
+
+> **The mission is to transform Africa's energy sector—not merely to sell technology.**
+
+## Documentation Hierarchy
+
+```text
+Vision
+  ↓
+Mission
+  ↓
+Strategy
+  ↓
+Products
+  ↓
+Operating Capabilities
+  ↓
+Governance + Controls
+  ↓
+Projects
+  ↓
+Tasks
+  ↓
+Evidence + Learning
+```
+
+## Documentation Principles
+
+1. **Purpose before structure.** Organizational architecture exists to carry the mission.
+2. **Problem before product.** Products are created only to solve recurring coordination problems.
+3. **Capability before scale.** Greater responsibility must be earned through evidence.
+4. **Open standards before proprietary dependence.** Interoperability is a strategic requirement.
+5. **Authority follows legitimate mandate.** Technical ability never substitutes for lawful authority.
+6. **Evidence before claims.** Technical, commercial and institutional claims must remain demonstrable.
+7. **Responsibility must be sustainable.** Every product and deployment must support the obligation it creates.
+8. **Important knowledge belongs to the institution.** Critical knowledge must not remain trapped in individual memory.
+9. **Failure must be survivable.** Critical infrastructure must degrade safely, recover predictably, and learn from disruption.
+10. **The institution must outlive individuals.** Governance, succession, documentation, and ecosystem stewardship convert founder-led execution into durable institutional capability.
 
 ## Supporting Material
 
@@ -37,8 +204,10 @@ Regional Energy Market (Long-term outcome)
 - [Templates](./templates/)
 - [Archive](./archive/)
 
-## Documentation Principle
+## Repository Boundary
 
-Purpose → strategy → products → architecture → stakeholders → risk → operations.
+Technical implementation repositories and organizational governance documentation should remain logically distinct.
 
-Technical implementation repositories should remain separate from this organizational knowledge base. This directory is intentionally self-contained so it can be migrated into a dedicated `organization-docs` repository later without changing its information architecture.
+This directory defines the institution: **why it exists, what it builds, how it operates, how authority is governed, how risk is carried, how people and partners participate, and how the mission survives change.**
+
+Technical repositories define specific implementations of those institutional decisions.
