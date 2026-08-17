@@ -2,7 +2,7 @@
 
 This directory is the organizational source of truth for the National Distributed Energy Resource Management System initiative and the institution being built around it.
 
-It connects the organization's purpose, strategy, products, operating model, finances, risk, people, technology, governance, ecosystem, and resilience into one coherent institutional architecture.
+It connects the organization's purpose, strategy, products, operating model, finances, risk, people, technology, governance, ecosystem, resilience, and institutional learning into one coherent institutional architecture.
 
 ## Vision
 
@@ -50,6 +50,8 @@ GOVERNANCE
 ECOSYSTEM
   ↓
 RESILIENCE + INSTITUTIONAL LONGEVITY
+  ↓
+MONITORING + EVALUATION + LEARNING
 ```
 
 ## Organization Domains
@@ -101,13 +103,16 @@ RESILIENCE + INSTITUTIONAL LONGEVITY
 13. [People, Talent & Organizational Capability](./13-people-talent-and-organizational-capability/)
     - Extends the people architecture into capability planning, talent acquisition, onboarding, performance, learning, career development, leadership, employee experience, and workforce governance.
 
-### Ecosystem & Longevity
+### Ecosystem, Longevity & Institutional Intelligence
 
 14. [Partnerships, Ecosystem & Institutional Relations](./14-partnerships-ecosystem-and-institutional-relations/)
     - Defines ecosystem architecture, government/utility/regulatory relations, OEM and technology partnerships, research and open-source collaboration, capital partnerships, and partnership governance.
 
 15. [Organizational Resilience, Continuity & Institutional Longevity](./15-organizational-resilience-continuity-and-institutional-longevity/)
     - Defines resilience architecture, business continuity, disaster recovery, crisis command, succession, institutional memory, anti-fragility, and integrated resilience governance.
+
+16. [Monitoring, Evaluation, Learning & Institutional Performance](./16-monitoring-evaluation-learning-and-institutional-performance/)
+    - Defines performance measurement, monitoring, data quality, evaluation, impact evidence, institutional learning, decision intelligence, assurance, and evidence-gated scaling.
 
 ## Current Documentation State
 
@@ -127,6 +132,7 @@ RESILIENCE + INSTITUTIONAL LONGEVITY
 13  People, Talent & Organizational Capability               COMPLETE
 14  Partnerships, Ecosystem & Institutional Relations        COMPLETE
 15  Organizational Resilience, Continuity & Longevity        COMPLETE
+16  Monitoring, Evaluation, Learning & Institutional Perf.   COMPLETE
 ```
 
 ## Core Organizational Doctrine
@@ -159,6 +165,10 @@ RESILIENCE + INSTITUTIONAL LONGEVITY
 
 > **If the organization cannot continue without the founder, it has not yet become an institution.**
 
+### Evidence Discipline
+
+> **Scale shall follow evidence rather than ambition.**
+
 ### Mission
 
 > **The mission is to transform Africa's energy sector—not merely to sell technology.**
@@ -183,6 +193,8 @@ Projects
 Tasks
   ↓
 Evidence + Learning
+  ↓
+Institutional Adaptation
 ```
 
 ## Documentation Principles
@@ -197,6 +209,8 @@ Evidence + Learning
 8. **Important knowledge belongs to the institution.** Critical knowledge must not remain trapped in individual memory.
 9. **Failure must be survivable.** Critical infrastructure must degrade safely, recover predictably, and learn from disruption.
 10. **The institution must outlive individuals.** Governance, succession, documentation, and ecosystem stewardship convert founder-led execution into durable institutional capability.
+11. **Learning must change the system.** Evidence and experience become institutional only when they produce verified improvements in decisions, products, processes, standards or strategy.
+12. **Scale follows evidence.** Increasingly consequential infrastructure responsibility requires increasingly strong proof of capability, value, resilience and governance.
 
 ## Supporting Material
 
@@ -208,6 +222,6 @@ Evidence + Learning
 
 Technical implementation repositories and organizational governance documentation should remain logically distinct.
 
-This directory defines the institution: **why it exists, what it builds, how it operates, how authority is governed, how risk is carried, how people and partners participate, and how the mission survives change.**
+This directory defines the institution: **why it exists, what it builds, how it operates, how authority is governed, how risk is carried, how people and partners participate, how performance is proven, how the institution learns, and how the mission survives change.**
 
 Technical repositories define specific implementations of those institutional decisions.
