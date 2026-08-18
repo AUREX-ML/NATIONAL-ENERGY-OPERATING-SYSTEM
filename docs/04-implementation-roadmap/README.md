@@ -30,9 +30,14 @@ National Energy Operating System readiness
 
 Each stage must prove technical capability, operational reliability, safety, cybersecurity, user value, economics, authority boundaries, and institutional readiness before the programme advances to the next level.
 
+## Phase II Focus
+
+The immediate Phase II task is Facility EMS pilot definition and site selection. This does not mean a pilot site has been selected or implementation has begun. It means the programme is defining the evidence, templates, boundaries, and decision gates required before any live pilot claim can be made.
+
 ## Source Documents
 
 - [Pilot Readiness Brief](./pilot-readiness-brief.md)
+- [Facility EMS Pilot Specification](./facility-ems-pilot-specification.md)
 - [Product Roadmap](../../organization-docs/05-product-roadmap/product-roadmap.md)
 - [Operating Model](../../organization-docs/07-operating-model/operating-model.md)
 - [National Deployment, Public Infrastructure & Impact](../../organization-docs/19-national-deployment-public-infrastructure-and-impact/)
