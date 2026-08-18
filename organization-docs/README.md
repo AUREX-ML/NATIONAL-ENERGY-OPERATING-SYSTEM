@@ -4,6 +4,8 @@ This directory is the organizational source of truth for the National Distribute
 
 It connects purpose, strategy, products, operations, finance, risk, people, technology, governance, ecosystem, resilience, learning, research, innovation, markets, national deployment, public infrastructure and impact through a Master Operating System.
 
+This is a **target institutional architecture baseline**. It defines what the organization must progressively become capable of doing. It should not be read as proof that every role, control, system, process, pilot, partnership, or government approval already exists.
+
 ## Vision
 
 > **Build digital infrastructure that enables facilities, regions, and nations to operate distributed energy resources as coordinated systems, creating the foundation for a regional energy market.**
@@ -65,32 +67,34 @@ The organization advances only after it has demonstrably solved the coordination
 19. [National Deployment, Public Infrastructure & Impact](./19-national-deployment-public-infrastructure-and-impact/)
 20. [Institutional Integration & Master Operating System](./20-institutional-integration-and-master-operating-system/) — Integrates Domains 01–19 into the institutional control layer and closes Organizational Architecture v1.0.
 
-## Architecture Status
+## Architecture Baseline Status
 
 ```text
-01  Organization Vision                                      COMPLETE
-02  Founder's Thesis                                         COMPLETE
-03  Organization Growth Framework                            COMPLETE
-04  Product Portfolio                                        COMPLETE
-05  Product Roadmap                                          COMPLETE
-06  Business Strategy                                        COMPLETE
-07  Operating Model                                          COMPLETE
-08  Financial Model                                          COMPLETE
-09  Risk Management                                          COMPLETE
-10  People & Organization                                    COMPLETE
-11  Technology & Digital Infrastructure                      COMPLETE
-12  Governance, Legal & Institutional Architecture           COMPLETE
-13  People, Talent & Organizational Capability               COMPLETE
-14  Partnerships, Ecosystem & Institutional Relations        COMPLETE
-15  Organizational Resilience, Continuity & Longevity        COMPLETE
-16  Monitoring, Evaluation, Learning & Institutional Perf.   COMPLETE
-17  Research, Innovation & Intellectual Capital              COMPLETE
-18  Market Development & Energy-Economy Architecture         COMPLETE
-19  National Deployment, Public Infrastructure & Impact      COMPLETE
-20  Institutional Integration & Master Operating System      COMPLETE
+01  Organization Vision                                      BASELINE DEFINED
+02  Founder's Thesis                                         BASELINE DEFINED
+03  Organization Growth Framework                            BASELINE DEFINED
+04  Product Portfolio                                        BASELINE DEFINED
+05  Product Roadmap                                          BASELINE DEFINED
+06  Business Strategy                                        BASELINE DEFINED
+07  Operating Model                                          BASELINE DEFINED
+08  Financial Model                                          BASELINE DEFINED
+09  Risk Management                                          BASELINE DEFINED
+10  People & Organization                                    BASELINE DEFINED
+11  Technology & Digital Infrastructure                      BASELINE DEFINED
+12  Governance, Legal & Institutional Architecture           BASELINE DEFINED
+13  People, Talent & Organizational Capability               BASELINE DEFINED
+14  Partnerships, Ecosystem & Institutional Relations        BASELINE DEFINED
+15  Organizational Resilience, Continuity & Longevity        BASELINE DEFINED
+16  Monitoring, Evaluation, Learning & Institutional Perf.   BASELINE DEFINED
+17  Research, Innovation & Intellectual Capital              BASELINE DEFINED
+18  Market Development & Energy-Economy Architecture         BASELINE DEFINED
+19  National Deployment, Public Infrastructure & Impact      BASELINE DEFINED
+20  Institutional Integration & Master Operating System      BASELINE DEFINED
 
 ORGANIZATIONAL ARCHITECTURE v1.0                              BASELINE COMPLETE
 ```
+
+Architecture baseline completion means the blueprint is organized enough for reconciliation. The next step is to compare the blueprint against current evidence, identify what exists, what is missing, what is duplicated, and what must be validated before official claims or deployment decisions are made.
 
 ## Master Operating System
 
