@@ -12,6 +12,7 @@ The programme is currently at concept, architecture, and validation-preparation 
 - Programme charter.
 - Stakeholder and institutional map.
 - Facility EMS pilot readiness brief.
+- Facility EMS pilot specification for Phase II pilot definition and site selection.
 - Validation readiness checklist.
 - Decision gate framework.
 - Repository status, notice, contribution, citation, and security files.
@@ -22,6 +23,7 @@ The programme is currently at concept, architecture, and validation-preparation 
 - Reframed the repository from a narrow National DERMS label to the broader National Energy Operating System Programme.
 - Preserved National DERMS as a technical layer inside the broader programme architecture.
 - Clarified that architecture baseline completion does not imply government approval, regulatory approval, production deployment, or operational authority.
+- Updated navigation to include the Facility EMS pilot specification as a Phase II planning artifact.
 
 ## [0.1.0] - 2026-08-18
 

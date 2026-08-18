@@ -77,11 +77,12 @@ The central problem is therefore:
 2. [Programme Charter](./docs/01-programme-definition/programme-charter.md)
 3. [Stakeholder and Institutional Map](./docs/01-programme-definition/stakeholder-and-institutional-map.md)
 4. [Pilot Readiness Brief](./docs/04-implementation-roadmap/pilot-readiness-brief.md)
-5. [Problem Statement and Needs Assessment](./docs/01-programme-definition/problem-statement-and-needs-assessment.md)
-6. [System Architecture Overview](./docs/02-system-architecture/)
-7. [Governance & Assurance Overview](./docs/05-governance-assurance/)
-8. [Validation Readiness Checklist](./docs/05-governance-assurance/validation-readiness-checklist.md)
-9. [Decision Gate Framework](./docs/05-governance-assurance/decision-gate-framework.md)
+5. [Facility EMS Pilot Specification](./docs/04-implementation-roadmap/facility-ems-pilot-specification.md)
+6. [Problem Statement and Needs Assessment](./docs/01-programme-definition/problem-statement-and-needs-assessment.md)
+7. [System Architecture Overview](./docs/02-system-architecture/)
+8. [Governance & Assurance Overview](./docs/05-governance-assurance/)
+9. [Validation Readiness Checklist](./docs/05-governance-assurance/validation-readiness-checklist.md)
+10. [Decision Gate Framework](./docs/05-governance-assurance/decision-gate-framework.md)
 
 ## Current Status
 
@@ -90,7 +91,7 @@ The central problem is therefore:
 | Problem framing | Working draft for validation |
 | Organizational architecture | Baseline complete |
 | Product architecture | Defined at concept / architecture level |
-| Facility EMS pathway | Roadmap defined; implementation evidence required |
+| Facility EMS pathway | Phase II pilot definition initiated; site selection and implementation evidence required |
 | Regional DERMS pathway | Architecture defined; dependent on facility proof |
 | National DERMS / NEOS pathway | Strategic architecture defined; dependent on legal, institutional, technical, and operational validation |
 | Government-facing readiness | Official briefing layer established; validation and review pending |
@@ -115,20 +116,20 @@ Government and public-sector stakeholders should review:
 
 ## Next Programme Step
 
-The next step is **Architecture Reconciliation and Government-Readiness Refinement**:
+The next step is **Phase II Facility EMS Pilot Definition and Site Selection**:
 
 ```text
-Existing material
+Facility EMS pilot specification
   ↓
-Official repository structure
+Candidate-site screening
   ↓
-Gap and duplication review
+Site discovery authorization
   ↓
-Validation-ready documentation
+Asset and integration inventory
   ↓
-Stakeholder review
+Baseline measurement plan
   ↓
-Pilot / discovery decision
+Gate 1 pilot-readiness decision
 ```
 
-This repository is being refined so that it can support serious technical, institutional, and government review.
+This repository is being refined so that it can support serious technical, institutional, and government review without overstating maturity.
