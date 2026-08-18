@@ -6,6 +6,20 @@ This repository contains the working programme architecture for a proposed **Nat
 
 The initiative is currently at **concept, architecture, and validation-preparation stage**. The repository should be read as a controlled programme knowledge base, not as a claim that a national production system is already deployed or approved.
 
+## Naming Note
+
+The original repository name, `National-Distributed-Energy-Resource-Management-System`, reflected an earlier technical framing around National DERMS.
+
+The official programme framing used in this repository is now:
+
+> **National Energy Operating System Programme**
+
+Within that programme, **National DERMS** remains one major technical layer. It is not the whole programme.
+
+The intended GitHub repository target is:
+
+> `AUREX-ML/NATIONAL-ENERGY-OPERATING-SYSTEM`
+
 ## What Is Being Built
 
 The programme is building the foundations for digital energy coordination infrastructure that can evolve through four levels:
@@ -47,6 +61,16 @@ The central problem is therefore:
 | [Governance & Assurance](./docs/05-governance-assurance/) | Defines authority boundaries, risk controls, regulatory alignment, evidence, assurance, and readiness discipline. |
 | [Organization Docs](./organization-docs/) | Detailed 20-domain organizational architecture baseline. |
 
+## Repository Governance
+
+| Document | Purpose |
+|---|---|
+| [Status](./STATUS.md) | States what exists, what does not yet exist, and what maturity is claimed. |
+| [Notice](./NOTICE.md) | Clarifies programme status, institutional boundaries, naming, and evidence limits. |
+| [Contributing](./CONTRIBUTING.md) | Defines contribution expectations and evidence standards. |
+| [Security](./SECURITY.md) | Defines security reporting and sensitive-information boundaries. |
+| [Citation](./CITATION.cff) | Provides repository citation metadata. |
+
 ## Recommended Reading for Government Visitors
 
 1. [Executive Brief](./docs/01-programme-definition/executive-brief.md)
@@ -69,7 +93,7 @@ The central problem is therefore:
 | Facility EMS pathway | Roadmap defined; implementation evidence required |
 | Regional DERMS pathway | Architecture defined; dependent on facility proof |
 | National DERMS / NEOS pathway | Strategic architecture defined; dependent on legal, institutional, technical, and operational validation |
-| Government-facing readiness | Repository restructuring in progress |
+| Government-facing readiness | Official briefing layer established; validation and review pending |
 
 ## Important Boundaries
 

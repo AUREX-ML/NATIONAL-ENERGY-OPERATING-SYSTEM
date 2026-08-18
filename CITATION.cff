@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: National Energy Operating System Programme
+message: "If you cite this repository, please cite it as working programme architecture for the National Energy Operating System Programme."
+type: report
+authors:
+  - name: National Energy Operating System Programme
+repository-code: "https://github.com/AUREX-ML/NATIONAL-ENERGY-OPERATING-SYSTEM"
+abstract: "Working programme architecture for an open, governed digital coordination layer for distributed energy resources, Facility EMS, Regional DERMS, National DERMS, and national energy operating-system readiness."
+keywords:
+  - distributed energy resources
+  - DERMS
+  - energy operating system
+  - Facility EMS
+  - energy infrastructure
+  - Kenya
+  - interoperability
+  - energy governance
+license: Apache-2.0
