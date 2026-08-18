@@ -20,7 +20,20 @@ It is not merely a software application. It is a programme that combines:
 
 ## Documents
 
-1. [Problem Statement and Needs Assessment](./problem-statement-and-needs-assessment.md)
+1. [Executive Brief](./executive-brief.md)
+2. [Programme Charter](./programme-charter.md)
+3. [Stakeholder and Institutional Map](./stakeholder-and-institutional-map.md)
+4. [Problem Statement and Needs Assessment](./problem-statement-and-needs-assessment.md)
+
+## Recommended Use
+
+The Executive Brief is the first document for visitors and senior stakeholders.
+
+The Programme Charter defines scope, governance, workstreams, decision gates, deliverables, and immediate next steps.
+
+The Stakeholder and Institutional Map clarifies who may be affected, who may contribute, and which authority questions require validation.
+
+The Problem Statement and Needs Assessment provides the longer technical and policy justification.
 
 ## Current Programme Stage
 
@@ -35,4 +48,3 @@ The material is strong enough to support structured discussion with government, 
 - Identify potential facility and regional pilot environments.
 - Establish baseline studies and evidence requirements.
 - Determine whether a national programme mandate, public-private structure, or existing institutional owner is appropriate.
-

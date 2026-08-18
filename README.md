@@ -47,6 +47,18 @@ The central problem is therefore:
 | [Governance & Assurance](./docs/05-governance-assurance/) | Defines authority boundaries, risk controls, regulatory alignment, evidence, assurance, and readiness discipline. |
 | [Organization Docs](./organization-docs/) | Detailed 20-domain organizational architecture baseline. |
 
+## Recommended Reading for Government Visitors
+
+1. [Executive Brief](./docs/01-programme-definition/executive-brief.md)
+2. [Programme Charter](./docs/01-programme-definition/programme-charter.md)
+3. [Stakeholder and Institutional Map](./docs/01-programme-definition/stakeholder-and-institutional-map.md)
+4. [Pilot Readiness Brief](./docs/04-implementation-roadmap/pilot-readiness-brief.md)
+5. [Problem Statement and Needs Assessment](./docs/01-programme-definition/problem-statement-and-needs-assessment.md)
+6. [System Architecture Overview](./docs/02-system-architecture/)
+7. [Governance & Assurance Overview](./docs/05-governance-assurance/)
+8. [Validation Readiness Checklist](./docs/05-governance-assurance/validation-readiness-checklist.md)
+9. [Decision Gate Framework](./docs/05-governance-assurance/decision-gate-framework.md)
+
 ## Current Status
 
 | Area | Status |
@@ -96,4 +108,3 @@ Pilot / discovery decision
 ```
 
 This repository is being refined so that it can support serious technical, institutional, and government review.
-

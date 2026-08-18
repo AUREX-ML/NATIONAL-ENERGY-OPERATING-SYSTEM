@@ -12,6 +12,18 @@ The detailed source material remains in [organization-docs](../organization-docs
 4. [Implementation Roadmap](./04-implementation-roadmap/)
 5. [Governance & Assurance](./05-governance-assurance/)
 
+## Government Visitor Reading Path
+
+1. [Executive Brief](./01-programme-definition/executive-brief.md)
+2. [Programme Charter](./01-programme-definition/programme-charter.md)
+3. [Stakeholder and Institutional Map](./01-programme-definition/stakeholder-and-institutional-map.md)
+4. [Pilot Readiness Brief](./04-implementation-roadmap/pilot-readiness-brief.md)
+5. [Problem Statement and Needs Assessment](./01-programme-definition/problem-statement-and-needs-assessment.md)
+6. [System Architecture](./02-system-architecture/)
+7. [Governance & Assurance](./05-governance-assurance/)
+8. [Validation Readiness Checklist](./05-governance-assurance/validation-readiness-checklist.md)
+9. [Decision Gate Framework](./05-governance-assurance/decision-gate-framework.md)
+
 ## Repository Logic
 
 ```text
@@ -37,4 +49,3 @@ What evidence is required
 | Architecture baseline | The conceptual structure is defined and ready for reconciliation against real evidence. |
 | Implementation evidence required | The document defines what should exist, but field, technical, legal, or operational proof is still required. |
 | Approved | Formally accepted by the appropriate authority. |
-

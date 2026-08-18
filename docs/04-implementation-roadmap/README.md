@@ -32,6 +32,7 @@ Each stage must prove technical capability, operational reliability, safety, cyb
 
 ## Source Documents
 
+- [Pilot Readiness Brief](./pilot-readiness-brief.md)
 - [Product Roadmap](../../organization-docs/05-product-roadmap/product-roadmap.md)
 - [Operating Model](../../organization-docs/07-operating-model/operating-model.md)
 - [National Deployment, Public Infrastructure & Impact](../../organization-docs/19-national-deployment-public-infrastructure-and-impact/)
@@ -45,4 +46,3 @@ Each stage must prove technical capability, operational reliability, safety, cyb
 - Which institution or customer authorizes the pilot?
 - What controls prevent unsafe operation?
 - What evidence will be accepted as proof?
-
